@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Notion_to_Html": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7155",
+      "launchBrowser": false
+    }
+  }
+}
